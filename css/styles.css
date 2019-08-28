@@ -1,0 +1,40 @@
+.container {
+    padding-top: 30px;
+}
+
+.begin {
+    padding-top: 30px;
+}
+
+#tList{
+    padding: 30px;
+}
+#details{
+    display: none;
+}
+.nTaskList {
+    padding-left: 20px;
+}
+.mbutton{
+    padding-top: 40px
+}
+#jumbo{
+    margin-top: 30px !important;
+}
+#show-places {
+    display: none;
+}
+
+#places {
+    cursor: pointer;
+    color: #0088cc;
+}
+
+#tlist:hover {
+    text-decoration: underline;
+}
+
+
+.material-icons.orange600 {
+    color: #FB8C00; 
+}
